@@ -1,5 +1,4 @@
 <p align="center" style="margin-top: 120px">
-  <img width="1040" alt="Cover" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/f4d08597-8f6e-4a2e-8807-0490eb7859be">
 
   <h1 align="center">Multi-User, Full-stack Blogging Applicaition</h1>
 
@@ -22,7 +21,7 @@ The [Blogging application](https://ub.cafe) is a multi-user, full-stack Next.js 
 
 ## 💻 Frontend
 
-<img width="1040" alt="Cover" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/d263479c-853f-40ed-aed4-58c5cbb8b14c">
+<img width="1040" alt="Cover" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/6963159/d263479c-853f-40ed-aed4-58c5cbb8b14c">
 
 ## 📹 Preview
 
