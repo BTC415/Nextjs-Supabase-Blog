@@ -21,7 +21,7 @@ The [Blogging application](https://ub.cafe) is a multi-user, full-stack Next.js 
 
 ## 💻 Frontend
 
-<img width="1040" alt="Cover" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/6963159/d263479c-853f-40ed-aed4-58c5cbb8b14c">
+<img width="1040" alt="Cover" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/d263479c-853f-40ed-aed4-58c5cbb8b14c">
 
 ## 📹 Preview
 
@@ -117,6 +117,3 @@ That's it! You should now be able to access the app at http://localhost:3000
 
 Admin dashboard will also be available on http://localhost:300/editor/posts
 
-## License
-
-Licensed under the [MIT license](https://github.com/shadcn/taxonomy/blob/main/LICENSE.md).
