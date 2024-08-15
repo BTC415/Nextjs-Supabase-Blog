@@ -1,6 +1,6 @@
 <p align="center" style="margin-top: 120px">
 
-  <h1 align="center">Multi-User, Full-stack Blogging Applicaition</h1>
+  <h1 align="center">Nextjs - Supabase Blogging Applicaition</h1>
 
 <p align="center">
   The <em>all-in-one</em> starter kit <br/>
@@ -21,29 +21,11 @@ The [Blogging application](https://ub.cafe) is a multi-user, full-stack Next.js 
 
 ## 💻 Frontend
 
-<img width="1040" alt="Cover" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/d263479c-853f-40ed-aed4-58c5cbb8b14c">
-
-## 📹 Preview
-
 https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/c0488b1b-ff48-4871-849d-806f09c39322
 
 ## 🧰 Backend
 
-<img width="1040" alt="Cover" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/c5cd3077-b955-43fd-b6ea-2f3b5f9297c9">
-
-## 📹 Preview
-
 https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/29c35c5f-ad67-4f5b-9943-0fd0d94448b8
-
-## 💾 Database Schema
-
-### Database schema & dummy data: [here](./database_schema/)
-
-<img width="992" alt="Screenshot 2023-06-10 at 10 00 18 PM" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/729e2d22-2467-4d5b-9c6c-e6a5ea58c717">
-
-## 📊 Google Lighthouse performance statistics
-
-<img width="992" alt="Screenshot 2023-06-10 at 10 00 18 PM" src="https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/2a4f693b-5c0d-4647-8444-291e1f635ee7">
 
 ## 📚 Tech Stacks
 
