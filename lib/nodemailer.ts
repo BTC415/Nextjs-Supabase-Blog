@@ -12,4 +12,4 @@ export const transporter = nodemailer.createTransport(
             pass: smtpPassword,
         },
     })
-);
+)
